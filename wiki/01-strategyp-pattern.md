@@ -71,7 +71,7 @@ class B {
 
 #### **UML**
 
-그림을 준비해서 넣어야 한다.
+![](https://user-images.githubusercontent.com/7725665/30330328-c4410f50-980f-11e7-95d4-79b111c4a2ed.png)
 
 #### **예제**
 
