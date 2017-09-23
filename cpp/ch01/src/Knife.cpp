@@ -11,13 +11,8 @@ class Knife : public Weapon
 protected:
 	
 public:
-	Knife();
 	void doAttack();
 };
-
-Knife::Knife(){
-
-}
 
 void Knife::doAttack(){
 	cout << "Knife Attack" << endl;
