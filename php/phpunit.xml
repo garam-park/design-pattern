@@ -3,5 +3,10 @@
     <testsuite name="ch01">
       <directory>tests/ch01</directory>
     </testsuite>
+
+    <testsuite name="ch02">
+      <directory>tests/ch02</directory>
+    </testsuite>
+
   </testsuites>
 </phpunit>
